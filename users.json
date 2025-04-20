@@ -1,0 +1,114 @@
+{
+  "5504502257": {
+    "balance": 91500.0,
+    "referrals": [
+      "5232371574",
+      "6512220842",
+      "6861380332",
+      "5737873833",
+      "6728225835",
+      "5671417060",
+      "6505425037"
+    ],
+    "recharge_log": [
+      {
+        "method": "سيرياتيل كاش (يدوي)",
+        "amount": 30000,
+        "txn_id": "600827285992",
+        "timestamp": "2025-04-20 04:36:05"
+      }
+    ],
+    "withdraw_log": [],
+    "invited_by": null,
+    "transactions": [
+      {
+        "time": "2025-04-20 10:34",
+        "action": "سحب إيـشانسي",
+        "amount": 50000,
+        "details": "سحب من حساب إيـشانسي"
+      }
+    ]
+  },
+  "5232371574": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "6512220842": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "1497558807": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": null
+  },
+  "6861380332": {
+    "balance": 105000.0,
+    "referrals": [],
+    "recharge_log": [
+      {
+        "method": "سيرياتيل كاش (يدوي)",
+        "amount": 40000,
+        "txn_id": "200000000000",
+        "timestamp": "2025-04-20 10:33:23"
+      },
+      {
+        "method": "سيرياتيل كاش (يدوي)",
+        "amount": 50000,
+        "txn_id": "101010101010100",
+        "timestamp": "2025-04-20 11:00:30"
+      },
+      {
+        "method": "سيرياتيل كاش (يدوي)",
+        "amount": 50000,
+        "txn_id": "795858474748",
+        "timestamp": "2025-04-20 11:15:17"
+      }
+    ],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "5191967142": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": null
+  },
+  "5737873833": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "6728225835": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "5671417060": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  },
+  "6505425037": {
+    "balance": 0,
+    "referrals": [],
+    "recharge_log": [],
+    "withdraw_log": [],
+    "invited_by": "5504502257"
+  }
+}
